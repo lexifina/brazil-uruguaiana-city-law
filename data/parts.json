@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "30-leis-006.json": {
+   "acts": [
+    "lei-2024-05777"
+   ],
+   "sha256": "e53397caa145bf0d5e451a6fde83b672c5613638b6bc8bed775a60542ff7eeda"
+  }
+ },
+ "schema": 1
+}
