@@ -1,0 +1,19 @@
+{
+ "country": "BR-RS-URUGUAIANA",
+ "acts": [
+  {
+   "slug": "lei-2024-05777",
+   "short": "Lei 5777/2024",
+   "title": "Lei nº 5.777, de 18 de setembro de 2024",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/8827",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 40,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2024/8827/ldo_lei_5777.pdf",
+     "sha256": "407ee9f676214dfad5e08a9ce228c33e927aa1ab0a1582cb3876788a65e003b6"
+    }
+   ]
+  }
+ ]
+}

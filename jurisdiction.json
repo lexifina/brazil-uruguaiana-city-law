@@ -1,0 +1,9 @@
+{
+  "path": "br-rs-uruguaiana",
+  "code": "BR-RS-URUGUAIANA",
+  "name": "Uruguaiana (city)",
+  "level": "municipality",
+  "parent": "br-rs",
+  "repo": "https://github.com/lexifina/brazil-uruguaiana-city-law",
+  "build": "built: the law of Uruguaiana from the Câmara Municipal's SAPL"
+}
