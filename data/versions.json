@@ -14,6 +14,132 @@
      "sha256": "407ee9f676214dfad5e08a9ce228c33e927aa1ab0a1582cb3876788a65e003b6"
     }
    ]
+  },
+  {
+   "slug": "lei-2019-05080",
+   "short": "Lei 5080/2019",
+   "title": "Lei nº 5.080, de 11 de outubro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6687",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6687/lei_no_5.080.pdf",
+     "sha256": "148f4a591713fb67106fa24a4f6869c9008627ea35c3953f85a7388ebe19ab17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05079",
+   "short": "Lei 5079/2019",
+   "title": "Lei nº 5.079, de 11 de outubro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6686",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6686/lei_no_5.079.pdf",
+     "sha256": "c478300714b1dd1e369f6d082c5320b19f6dd992028b1c591c8d1fe79851f4b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05077",
+   "short": "Lei 5077/2019",
+   "title": "Lei nº 5.077, de 8 de outubro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6684",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 6,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6684/lei_no_5.077.pdf",
+     "sha256": "d461eb964c7aa9c5e52b0682b76f7bd495644abef3496b869b02f58b5895daa8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05076",
+   "short": "Lei 5076/2019",
+   "title": "Lei nº 5.076, de 8 de outubro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6683",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6683/lei_no_5.076.pdf",
+     "sha256": "237c4b0fbd17d9c4b5b0ee5b5f5e60ef2396128cffb46ac39b421722ae7188bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05075",
+   "short": "Lei 5075/2019",
+   "title": "Lei nº 5.075, de 8 de outubro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6682",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6682/lei_no_5.075.pdf",
+     "sha256": "1eca135e8c88196dffa8de8b65eee3e7686827586d2e953ba687b3e0f07c52ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05074",
+   "short": "Lei 5074/2019",
+   "title": "Lei nº 5.074, de 30 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6681",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6681/lei_no_5.074.pdf",
+     "sha256": "62fce343d97615a1423dc79e63f3043b804b71d162bbff02b0886c1159c206d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05073",
+   "short": "Lei 5073/2019",
+   "title": "Lei nº 5.073, de 23 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6680",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6680/lei_no_5.073.pdf",
+     "sha256": "247a2bb9682c4fe5c7f69f713232f83153e542bbe5a4ed40d9a29637fe4cbbf3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05071",
+   "short": "Lei 5071/2019",
+   "title": "Lei nº 5.071, de 23 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6678",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6678/lei_no_5.071.pdf",
+     "sha256": "b40cf706f8fe129385685a65da6c52ce282b815fe757bb1aa7444b133193f7f5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00025",
+   "short": "LC 25/2019",
+   "title": "Lei Complementar nº 25, de 12 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6657",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6657/lei_complementar_no_25.pdf",
+     "sha256": "bff00a32f3ff76cdc14afac4776216dfb2961212d6829fdb49e854accc3421de"
+    }
+   ]
   }
  ]
 }
