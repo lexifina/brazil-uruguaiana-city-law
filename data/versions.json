@@ -2548,6 +2548,314 @@
      "sha256": "7dd5f96d75bb9ba866bfde36aa7d3fb0ab71d0872c46aac6678d34526d3d7ef6"
     }
    ]
+  },
+  {
+   "slug": "lei-2017-04876",
+   "short": "Lei 4876/2017",
+   "title": "Lei nº 4.876, de 22 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4490",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 70,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4490/4490_texto_integral.pdf",
+     "sha256": "f28287f7cd105f976074053f2c89f34520e478cbb4c22326e4d05587443137a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04875",
+   "short": "Lei 4875/2017",
+   "title": "Lei nº 4.875, de 22 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4489",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 8,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4489/4489_texto_integral.pdf",
+     "sha256": "73ae0e8c0d0d07f9ecd6b56c8fc19730ad9d867419ba7b3f3b3720d9f820837b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04874",
+   "short": "Lei 4874/2017",
+   "title": "Lei nº 4.874, de 21 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4609",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 9,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4609/4609_texto_integral.pdf",
+     "sha256": "ccb3739898301ffb28dd24d9e47d648fba186b802669dc724a1466eb04a728dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04871",
+   "short": "Lei 4871/2017",
+   "title": "Lei nº 4.871, de 21 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4486",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 10,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4486/4486_texto_integral.pdf",
+     "sha256": "fe0c27b536a41ab64defd497f640d995d83f928e29528c67cfec11393e1214ea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04869",
+   "short": "Lei 4869/2017",
+   "title": "Lei nº 4.869, de 13 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4484",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 6,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4484/4484_texto_integral.pdf",
+     "sha256": "4394cd4aa6c33eee3ec5c3ddf01ec9dae6d42388f9e2e71bafe8e530b7835d71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04868",
+   "short": "Lei 4868/2017",
+   "title": "Lei nº 4.868, de 13 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4483",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 8,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4483/4483_texto_integral.pdf",
+     "sha256": "5c4579fae54941de6eb7b2ff7464d12fe01f876ae0ad90cf4729acee004ddfb9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04867",
+   "short": "Lei 4867/2017",
+   "title": "Lei nº 4.867, de 13 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4482",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4482/4482_texto_integral.pdf",
+     "sha256": "c6f51c867b3c1639af284d263dadae70200c83d4db1dd44ac5f24d9776916bae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04863",
+   "short": "Lei 4863/2017",
+   "title": "Lei nº 4.863, de 7 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4530",
+   "versions": [
+    {
+     "from": "2017-12-09",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4530/4530_texto_integral.pdf",
+     "sha256": "9563c256a994c43031a21492e7acd7f71973190841d4f97214583ee71745fa0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04862",
+   "short": "Lei 4862/2017",
+   "title": "Lei nº 4.862, de 7 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4529",
+   "versions": [
+    {
+     "from": "2017-12-09",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4529/4529_texto_integral.pdf",
+     "sha256": "e7507a0ecff86a879fd05943510a20100880335bcc69c86d7b4cafedcbf714db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04861",
+   "short": "Lei 4861/2017",
+   "title": "Lei nº 4.861, de 5 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4528",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4528/4528_texto_integral.pdf",
+     "sha256": "6d626faaea1cb07ff31dedfbf6883606bec024c5addea0577f04005aebd32dd1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04860",
+   "short": "Lei 4860/2017",
+   "title": "Lei nº 4.860, de 4 de dezembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4527",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4527/4527_texto_integral.pdf",
+     "sha256": "c8e6ff6c24125287ffd08449e2ac216df0a7e5e1d4a1f311c59d934bc9929213"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04858",
+   "short": "Lei 4858/2017",
+   "title": "Lei nº 4.858, de 28 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4525",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 10,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4525/4525_texto_integral.pdf",
+     "sha256": "5e855098100b4fd5e4bf0b7ee3ed265d8901726e4bae74bbc42bbe9f1112ab81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04857",
+   "short": "Lei 4857/2017",
+   "title": "Lei nº 4.857, de 28 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4524",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4524/4524_texto_integral.pdf",
+     "sha256": "3ade4d3becd9f4d2f261fd41dfa0ca22f443c0c960b9cbfd9b020a77077bea38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04856",
+   "short": "Lei 4856/2017",
+   "title": "Lei nº 4.856, de 28 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4523",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4523/4523_texto_integral.pdf",
+     "sha256": "39a1b963682da23f9bfc8c703ecdb5d81e67a8c813893f7ddf76d299bd7c4db2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04855",
+   "short": "Lei 4855/2017",
+   "title": "Lei nº 4.855, de 28 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4522",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 22,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4522/4522_texto_integral.pdf",
+     "sha256": "3e9800fd08e259aee6f59276bf7c4f3758071a3af815c584a8811c0ee120273f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04853",
+   "short": "Lei 4853/2017",
+   "title": "Lei nº 4.853, de 23 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4520",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4520/4520_texto_integral.pdf",
+     "sha256": "cc46d83529afab9820d4f51a968256efa0076dea68bd1995dda91943e2f09809"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04852",
+   "short": "Lei 4852/2017",
+   "title": "Lei nº 4.852, de 23 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4519",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4519/4519_texto_integral.pdf",
+     "sha256": "44b6c324a9d48116433531720ddceaee38f1e0956009e7c0caeccda12bb2e8de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04851",
+   "short": "Lei 4851/2017",
+   "title": "Lei nº 4.851, de 22 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4518",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4518/4518_texto_integral.pdf",
+     "sha256": "adb0d09d9721d9cfe1c95ef9b4c4d9b22fafc6ab59cabc2384a9499e3c76f44c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04850",
+   "short": "Lei 4850/2017",
+   "title": "Lei nº 4.850, de 22 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4517",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4517/4517_texto_integral.pdf",
+     "sha256": "d5a460fa8e9718311f8411cd21baf76d8c30a98b27616626354ea1dd185cfd54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04849",
+   "short": "Lei 4849/2017",
+   "title": "Lei nº 4.849, de 22 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4516",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4516/4516_texto_integral.pdf",
+     "sha256": "a87f43ec72b7467844a5d78bc263d72c0cb39bcd116d2308f32b2c0be0697971"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04848",
+   "short": "Lei 4848/2017",
+   "title": "Lei nº 4.848, de 20 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4535",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 27,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4535/4535_texto_integral.pdf",
+     "sha256": "305f9624648e2fa74438b5e387b60639353219e436a01204eadfb0364b56be34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-04847",
+   "short": "Lei 4847/2017",
+   "title": "Lei nº 4.847, de 17 de novembro de 2017",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/4536",
+   "versions": [
+    {
+     "from": "2017-11-18",
+     "units": 8,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2017/4536/4536_texto_integral.pdf",
+     "sha256": "584d5f3aa8a1c23462d6fa311ce32dde2a4238a7983e2db79c23cfba4e0ea274"
+    }
+   ]
   }
  ]
 }
