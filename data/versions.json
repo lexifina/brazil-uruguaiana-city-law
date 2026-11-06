@@ -140,6 +140,636 @@
      "sha256": "bff00a32f3ff76cdc14afac4776216dfb2961212d6829fdb49e854accc3421de"
     }
    ]
+  },
+  {
+   "slug": "lei-2019-05070",
+   "short": "Lei 5070/2019",
+   "title": "Lei nº 5.070, de 10 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6656",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 11,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6656/lei_no_5.070.pdf",
+     "sha256": "8e38324e9e2d3c9284016d11d8e10fc9375a90b13a1ba5522ea3312db2d06114"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05069",
+   "short": "Lei 5069/2019",
+   "title": "Lei nº 5.069, de 10 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6655",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6655/lei_no_5.069.pdf",
+     "sha256": "fbc3f056145eaed2cf81f77e821ed992e1e9b07a9c7cd663875691a1f0c68542"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05068",
+   "short": "Lei 5068/2019",
+   "title": "Lei nº 5.068, de 10 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6654",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6654/lei_no_5.068.pdf",
+     "sha256": "1917ac497310d8d4d9fa64ce4c6674a098a0d826e61b2a5c7be425593092f595"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05067",
+   "short": "Lei 5067/2019",
+   "title": "Lei nº 5.067, de 10 de setembro de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6653",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6653/lei_no_5.067.pdf",
+     "sha256": "fdb64ae10ec1c9a3d980ed18a55702f437a19a1ce9117689da75a8cff97d4b48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05065",
+   "short": "Lei 5065/2019",
+   "title": "Lei nº 5.065, de 29 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6652",
+   "versions": [
+    {
+     "from": "2019-09-03",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6652/lei_no_5.065.pdf",
+     "sha256": "0ee4d73504b643397ca9cb06030abccb1b0c3eec6fcf02c109c35261a16884c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05064",
+   "short": "Lei 5064/2019",
+   "title": "Lei nº 5.064, de 22 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6630",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6630/lei_no_5.064.pdf",
+     "sha256": "45d8fbc085423858d61ade8b4fdccd9c9872585e8fbc16bbea451ad34c72e53d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05063",
+   "short": "Lei 5063/2019",
+   "title": "Lei nº 5.063, de 22 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6629",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6629/lei_no_5.063.pdf",
+     "sha256": "105142f06ddd085e33279ec5fbde7e3357099113fc2d73a62edd8e2de5aeab9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05062",
+   "short": "Lei 5062/2019",
+   "title": "Lei nº 5.062, de 22 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6628",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6628/lei_no_5.062.pdf",
+     "sha256": "2705c5e2ee02d2bb34ef9d5a5d89977bd92ea9ae7d3de5ac04031d184f74f8d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05060",
+   "short": "Lei 5060/2019",
+   "title": "Lei nº 5.060, de 16 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6626",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6626/lei_no_5.060.pdf",
+     "sha256": "a90ca6c34b6bd2b9c53a9ef25caeba5182c9b6dede44cdb4dd50185ddb8b4260"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05059",
+   "short": "Lei 5059/2019",
+   "title": "Lei nº 5.059, de 16 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6625",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6625/lei_no_5.059.pdf",
+     "sha256": "98ab678be38bf246646038bb3824129009525aad866427f0bbbd23f9a9138d03"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05058",
+   "short": "Lei 5058/2019",
+   "title": "Lei nº 5.058, de 16 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6624",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6624/lei_no_5.058.pdf",
+     "sha256": "7507ca7224688a2e96b830948578978d08347363160b3c61e37e4dafba93dc1c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05057",
+   "short": "Lei 5057/2019",
+   "title": "Lei nº 5.057, de 16 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6623",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6623/lei_no_5.057.pdf",
+     "sha256": "88d03a45afb8f2c4a207485b5af1d75df12c8445c649def9f2b05c3fff9f065c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05056",
+   "short": "Lei 5056/2019",
+   "title": "Lei nº 5.056, de 12 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6622",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6622/lei_no_5.056.pdf",
+     "sha256": "3e834551e38db93cfec1134a9b826a5b0be2a0fd1b8e6712bcbd331d8e1e62ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05055",
+   "short": "Lei 5055/2019",
+   "title": "Lei nº 5.055, de 12 de agosto de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6621",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6621/lei_no_5.055.pdf",
+     "sha256": "4bebf6ef71b6cc4e036ec3bcb24274b24ce5e0b2893d48cb70485451ec297365"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05054",
+   "short": "Lei 5054/2019",
+   "title": "Lei nº 5.054, de 18 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6608",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6608/lei_no_5.054.pdf",
+     "sha256": "1e2911785a5475d96a027969fb95dc512db0a17ffe4986474487cf3a1e217c26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05053",
+   "short": "Lei 5053/2019",
+   "title": "Lei nº 5.053, de 18 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6607",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6607/lei_no_5.053.pdf",
+     "sha256": "321cac5273f9bfecb933c794a86f44577f7da898e88b01feffe0be1c1f5810d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05052",
+   "short": "Lei 5052/2019",
+   "title": "Lei nº 5.052, de 18 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6606",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 7,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6606/lei_no_5.052.pdf",
+     "sha256": "59349ec851fa0ac282422d43e8879c74fae820a8c1da759528bb3a38526d0f37"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05051",
+   "short": "Lei 5051/2019",
+   "title": "Lei nº 5.051, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6593",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6593/lei_no_5.051.pdf",
+     "sha256": "15ea1e29745ebe571c98b46febaf9b8dade2def55da30bc75dc62b9932b7edbe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05050",
+   "short": "Lei 5050/2019",
+   "title": "Lei nº 5.050, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6592",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6592/lei_no_5.050.pdf",
+     "sha256": "538e61e7eebfd5886812fb4f167ca2bcdf9499483b62130cd63e0fee9e907cf4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05049",
+   "short": "Lei 5049/2019",
+   "title": "Lei nº 5.049, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6591",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6591/lei_no_5.049.pdf",
+     "sha256": "4a638e57322c05d6a5d9a1d4bc47612a115601d06319fa482c3d4e4d4ec80c77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05048",
+   "short": "Lei 5048/2019",
+   "title": "Lei nº 5.048, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6590",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6590/lei_no_5.048.pdf",
+     "sha256": "25aad19efd122da473c49ed5cab8792ae929fe3a5fb83bf0c00dff395d6afc69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05047",
+   "short": "Lei 5047/2019",
+   "title": "Lei nº 5.047, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6589",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6589/lei_no_5.047.pdf",
+     "sha256": "a6c99f999d1cb40b89dddfcdff0270f210f374be765e03896478a06f069738dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05046",
+   "short": "Lei 5046/2019",
+   "title": "Lei nº 5.046, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6588",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6588/lei_no_5.046.pdf",
+     "sha256": "4e619f22cb5cda89cb2ad305e9070c3822518a9635e370cd12e65ee50c4f35b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05045",
+   "short": "Lei 5045/2019",
+   "title": "Lei nº 5.045, de 9 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6587",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 12,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6587/lei_no_5.045.pdf",
+     "sha256": "c867a655726316f0dce7d065619d9b2ec2e4232118d4b35740c3db2b10f74818"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05043",
+   "short": "Lei 5043/2019",
+   "title": "Lei nº 5.043, de 2 de julho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6585",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6585/lei_no_5.043.pdf",
+     "sha256": "31d67eda515f1b5e7ccbdd7c5f689e944aca609ef867d9dcd0d2920be5ca1e4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05042",
+   "short": "Lei 5042/2019",
+   "title": "Lei nº 5.042, de 21 de junho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6584",
+   "versions": [
+    {
+     "from": "2019-06-22",
+     "units": 10,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6584/lei_no_5.042.pdf",
+     "sha256": "9c81918402059af02d53fa8292dd353885561188bc42daa39de87a5ca0ea86cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05041",
+   "short": "Lei 5041/2019",
+   "title": "Lei nº 5.041, de 21 de junho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6583",
+   "versions": [
+    {
+     "from": "2019-06-22",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6583/lei_no_5.041.pdf",
+     "sha256": "820bb61608e49649479725056a3818431f29611b50f6e8ab132e9eb1628722b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05039",
+   "short": "Lei 5039/2019",
+   "title": "Lei nº 5.039, de 7 de junho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6570",
+   "versions": [
+    {
+     "from": "2019-06-08",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6570/lei_no_5.039.pdf",
+     "sha256": "2200c1920063a583f54f66d928ef62b1f2b7e5f07c3d39ffa788d44ab7f6b283"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05037",
+   "short": "Lei 5037/2019",
+   "title": "Lei nº 5.037, de 4 de junho de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6568",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6568/lei_no_5.037.pdf",
+     "sha256": "788aae42f2866f04a867bc8bdfe2201515a645c8edafda25202a394b935bfe22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05036",
+   "short": "Lei 5036/2019",
+   "title": "Lei nº 5.036, de 30 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6567",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 10,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6567/lei_no_5.036.pdf",
+     "sha256": "49baffa378ac4a1a38ea09e75a0b51ef1b50c1e3978af5a24edcff531ab9c12c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05035",
+   "short": "Lei 5035/2019",
+   "title": "Lei nº 5.035, de 30 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6566",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 11,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6566/lei_no_5.035.pdf",
+     "sha256": "dcc92047fc84df1c5a3360f1b143f9a77d7ee2fa328eaffdc0df86ce7555a1a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05034",
+   "short": "Lei 5034/2019",
+   "title": "Lei nº 5.034, de 29 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6565",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6565/lei_no_5.034.pdf",
+     "sha256": "3e1850df9c98136db817a866c865e3d1f5ec3188f7bf4252e591c924a076ef11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05033",
+   "short": "Lei 5033/2019",
+   "title": "Lei nº 5.033, de 29 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6564",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 8,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6564/lei_no_5.033.pdf",
+     "sha256": "554f302c6219ff6bc5275a598355c8f5ce051bdfeeaa21759f77cb2016de9504"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05032",
+   "short": "Lei 5032/2019",
+   "title": "Lei nº 5.032, de 29 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6563",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 7,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6563/lei_no_5.032.pdf",
+     "sha256": "3646f79a755e92f508677ec0500c032dec64ebcb83e4b61a323e12d6b58f79d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05031",
+   "short": "Lei 5031/2019",
+   "title": "Lei nº 5.031, de 23 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6562",
+   "versions": [
+    {
+     "from": "2019-05-24",
+     "units": 6,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6562/lei_no_5.031.pdf",
+     "sha256": "be1f373dd0fc87cc0429bb8986885db110f00201714f57476f49dcda0c72efa1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05030",
+   "short": "Lei 5030/2019",
+   "title": "Lei nº 5.030, de 21 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6541",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6541/lei_no_5.030.pdf",
+     "sha256": "b6fedc54e84d0cc5a8004606734891fb2fb1ff7f9c8ea3187f14569bb9c8b4eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05029",
+   "short": "Lei 5029/2019",
+   "title": "Lei nº 5.029, de 21 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6540",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6540/lei_no_5.029.pdf",
+     "sha256": "4d293fe17f16393ff140e6ad8e27ee17650690d2f25ba56893635b7a911883f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05028",
+   "short": "Lei 5028/2019",
+   "title": "Lei nº 5.028, de 21 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6539",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6539/lei_no_5.028.pdf",
+     "sha256": "6f0800f8ba2a23d75d942c103536b1ab94ae3c71e15fe0c93db46d5a835ba4f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05027",
+   "short": "Lei 5027/2019",
+   "title": "Lei nº 5.027, de 21 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6538",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6538/lei_no_5.027.pdf",
+     "sha256": "b5e5a40d4fe23cab50709a7d0c01f15ba19a67ac753094bff9941f00c4e2693c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05025",
+   "short": "Lei 5025/2019",
+   "title": "Lei nº 5.025, de 14 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6536",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6536/lei_no_5.025.pdf",
+     "sha256": "397453da20031c34cf006b4f6dae5ce2f778509d5307d1758208d6d5b60d0e15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05024",
+   "short": "Lei 5024/2019",
+   "title": "Lei nº 5.024, de 14 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6535",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6535/lei_no_5.024.pdf",
+     "sha256": "9d1d044c634ddfc9b5aab438d96fc234485a8a9c1a036af66786c59704553a34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05023",
+   "short": "Lei 5023/2019",
+   "title": "Lei nº 5.023, de 8 de maio de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6534",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6534/lei_no_5.023.pdf",
+     "sha256": "7102fe624b171f76c06313c6c1d9b6ac29b4437005b981ef9b4589dcfcb01ec9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05022",
+   "short": "Lei 5022/2019",
+   "title": "Lei nº 5.022, de 25 de abril de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6533",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6533/lei_no_5.022.pdf",
+     "sha256": "1544379a917df8a15fc08e03bef15bb8a4b1ae5fc9923f6e6030f4d80396546d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05021",
+   "short": "Lei 5021/2019",
+   "title": "Lei nº 5.021, de 25 de abril de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6532",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6532/lei_no_5.021.pdf",
+     "sha256": "69978b04411e54c679f35e7d3d3b783fd489c42e1b648bb603c4222aa43453c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-05020",
+   "short": "Lei 5020/2019",
+   "title": "Lei nº 5.020, de 25 de abril de 2019",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6531",
+   "versions": [
+    {
+     "from": "2019-04-26",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2019/6531/lei_no_5.020.pdf",
+     "sha256": "e277ef7f08c21805db9bd8ed0f08dc48914d3823bd5a08a6034ca5603d0ae9de"
+    }
+   ]
   }
  ]
 }
