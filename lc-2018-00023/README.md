@@ -1,0 +1,9 @@
+# Lei Complementar nº 23, de 26 de dezembro de 2018
+
+LC 23/2018 · 1 versions, from 2018-12-27 (latest in force: 2018-12-27) · <https://sapl.uruguaiana.rs.leg.br/norma/6376>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
