@@ -1386,6 +1386,566 @@
      "sha256": "4c6f9d36c4eaf43cac3852043708a30c05b06876aec783b9ed800dd57335bd48"
     }
    ]
+  },
+  {
+   "slug": "lei-2018-04972",
+   "short": "Lei 4972/2018",
+   "title": "Lei nº 4.972, de 18 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6291",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 7,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6291/lei_no_4.972.pdf",
+     "sha256": "88d37f634096ab5f0f378effabb0bca4d79651f4f16d5e0316c2b0f179177765"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04970",
+   "short": "Lei 4970/2018",
+   "title": "Lei nº 4.970, de 16 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6289",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 6,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6289/lei_no_4.970.pdf",
+     "sha256": "33c5ed893ac0a48c991a2494df64297cb639f0d0f8d23b016e26263cd2ad8391"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04969",
+   "short": "Lei 4969/2018",
+   "title": "Lei nº 4.969, de 15 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6288",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6288/lei_no_4.969.pdf",
+     "sha256": "bf872fd06c5c535e55e89770476dcb198b16eca2a62b56a86ec9258e9a82a614"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04968",
+   "short": "Lei 4968/2018",
+   "title": "Lei nº 4.968, de 11 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6318",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 40,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6318/lei_no_4.968.pdf",
+     "sha256": "31cac0d94a462d75e469c7e29585c8df27122b8e289714aa3550bf1ac11e0763"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04967",
+   "short": "Lei 4967/2018",
+   "title": "Lei nº 4.967, de 4 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6287",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6287/lei_no_4.967.pdf",
+     "sha256": "57ecd0632ace98d8cef9916088193aac9c12a7b13940dfd1d270121d9d9ddcce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04966",
+   "short": "Lei 4966/2018",
+   "title": "Lei nº 4.966, de 4 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6286",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6286/lei_no_4.966.pdf",
+     "sha256": "83ce21d43e7d2b4c351a7fc845788d31c5d53c96717e8b3c7f7422b31fe31626"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04965",
+   "short": "Lei 4965/2018",
+   "title": "Lei nº 4.965, de 3 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6273",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6273/lei_no_4.965.pdf",
+     "sha256": "0b4bdb94f8078ee2ad36b47de876141214c88701bdf1f7dc2f61700f56cffd79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04964",
+   "short": "Lei 4964/2018",
+   "title": "Lei nº 4.964, de 3 de outubro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6272",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6272/lei_no_4.964.pdf",
+     "sha256": "ea9eb65c6c6771ad674685553f80b0adc55bd31294912e7aaa47fd3245f1e503"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04963",
+   "short": "Lei 4963/2018",
+   "title": "Lei nº 4.963, de 28 de setembro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6271",
+   "versions": [
+    {
+     "from": "2018-09-29",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6271/lei_no_4.963.pdf",
+     "sha256": "c01c04a5ea2172348c6b2c79a4ea8c8057ebb5d72f551f8659468b3025d97010"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04962",
+   "short": "Lei 4962/2018",
+   "title": "Lei nº 4.962, de 28 de setembro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6270",
+   "versions": [
+    {
+     "from": "2018-09-29",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6270/lei_no_4.962.pdf",
+     "sha256": "7c7a5e0c0ff5f946aacfdf942750f54930511aa77c7881249898f0d1ea746cca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04961",
+   "short": "Lei 4961/2018",
+   "title": "Lei nº 4.961, de 25 de setembro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6269",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6269/lei_no_4.961.pdf",
+     "sha256": "92fc47acffd4284bf51989caebc81a11413747ee8041b7e2c04111dc1e0ae624"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04960",
+   "short": "Lei 4960/2018",
+   "title": "Lei nº 4.960, de 14 de setembro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6268",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6268/lei_no_4.960.pdf",
+     "sha256": "932e5d3953bc7f06578cd8b7097e776e3dde89f7a22997482caf9ca6f053c563"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04959",
+   "short": "Lei 4959/2018",
+   "title": "Lei nº 4.959, de 5 de setembro de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6267",
+   "versions": [
+    {
+     "from": "2018-09-06",
+     "units": 10,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6267/lei_no_4.959.pdf",
+     "sha256": "f8b75aa921cc05cf2ccc379240fe323778af5c720492f867f9f19a3fed5e72f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04958",
+   "short": "Lei 4958/2018",
+   "title": "Lei nº 4.958, de 31 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6212",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6212/lei_no_4.958.pdf",
+     "sha256": "45bb2c5e67d1e69de3cb03f3c3ce5962e778e0fadc5b095c85b1e5f1643e1cb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04956",
+   "short": "Lei 4956/2018",
+   "title": "Lei nº 4.956, de 29 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6210",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6210/lei_no_4.956.pdf",
+     "sha256": "5d5f5e9d7b5a49838b06463ad112b164de643e1a4c3ace32fffd73fe1b47aa01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04955",
+   "short": "Lei 4955/2018",
+   "title": "Lei nº 4.955, de 29 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6209",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6209/lei_no_4.955.pdf",
+     "sha256": "728f3abc9f4962ed3035c09a4bb2552ae94d0d4190a6b93d92a4e1d28ad1c1d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04954",
+   "short": "Lei 4954/2018",
+   "title": "Lei nº 4.954, de 24 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6208",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 20,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6208/lei_no_4.954.pdf",
+     "sha256": "ee7061691f1866718be4eed535c138526c959802df8df6b2f5c70b4882a67af0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04953",
+   "short": "Lei 4953/2018",
+   "title": "Lei nº 4.953, de 24 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6207",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6207/lei_no_4.953.pdf",
+     "sha256": "bcfd693f0cd19a9e9274540c14b4a3f72dac83db658071df5816f26903019469"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04952",
+   "short": "Lei 4952/2018",
+   "title": "Lei nº 4.952, de 24 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6206",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6206/lei_no_4.952.pdf",
+     "sha256": "fb5a2d5f2b4a7a72ad4b9622ce7d873ef75d355c4a9d11af20b9687ab019acce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04951",
+   "short": "Lei 4951/2018",
+   "title": "Lei nº 4.951, de 17 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6198",
+   "versions": [
+    {
+     "from": "2018-08-18",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6198/lei_no_4.951.pdf",
+     "sha256": "a04e1703e59ff072920817755d7689c8b56956ccc8e0458e020361f71f17a382"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04947",
+   "short": "Lei 4947/2018",
+   "title": "Lei nº 4.947, de 15 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6194",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6194/lei_no_4.947.pdf",
+     "sha256": "3f74b1260a43a2b3122709cac65338ba64718f7bf6c081393105436b619c852c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04946",
+   "short": "Lei 4946/2018",
+   "title": "Lei nº 4.946, de 15 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6189",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6189/lei_no_4.946.pdf",
+     "sha256": "81125a3a10522837e320aa0fb2f4890dcf09e52c08f9f184bee948fd1096356f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04945",
+   "short": "Lei 4945/2018",
+   "title": "Lei nº 4.945, de 9 de agosto de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6188",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6188/lei_no_4.945.pdf",
+     "sha256": "2a90a5e1eec1aa99321c26af5c38bb1c8e01f02f6f063bad32593df21b525c21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04944",
+   "short": "Lei 4944/2018",
+   "title": "Lei nº 4.944, de 25 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/6080",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/6080/lei_no_4.944.pdf",
+     "sha256": "59fd9720125151d968ccdcd9acbb30b1c1e169d70648e32c43e1036bf3ae5587"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04943",
+   "short": "Lei 4943/2018",
+   "title": "Lei nº 4.943, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5788",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5788/lei_no_4.943.pdf",
+     "sha256": "4f8934025327e05310b610f2ab27cef9349e1dbe998facb5d783bbf6535236f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04942",
+   "short": "Lei 4942/2018",
+   "title": "Lei nº 4.942, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5787",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5787/lei_no_4.942.pdf",
+     "sha256": "ad067c331cd9c76b58d8b4d334de3db24314c4c00214e8ead9a41399fde61ed6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04941",
+   "short": "Lei 4941/2018",
+   "title": "Lei nº 4.941, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5786",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5786/lei_no_4.941.pdf",
+     "sha256": "20fb2fb87bfe932db9d7df14e64d5a9fb1f2585078045816fefd13631af7aa60"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04940",
+   "short": "Lei 4940/2018",
+   "title": "Lei nº 4.940, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5785",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5785/lei_no_4.940.pdf",
+     "sha256": "93c162c94f0de72f40904fb47b07ffb8f764c9efbc3c1cce57758277820ad401"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04938",
+   "short": "Lei 4938/2018",
+   "title": "Lei nº 4.938, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5783",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5783/lei_no_4.938.pdf",
+     "sha256": "754cc6288cc4af327eedcad9c86f549d015270d433391ad66e5341015a388b5e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00020",
+   "short": "LC 20/2018",
+   "title": "Lei Complementar nº 20, de 13 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5789",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5789/lei_complementar_no_20.pdf",
+     "sha256": "be3dfb89fbec9471328a38cd34cc4ae893be9e93302a78da2f38a4e21478bf1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04937",
+   "short": "Lei 4937/2018",
+   "title": "Lei nº 4.937, de 5 de julho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5782",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 11,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5782/lei_no_4.937.pdf",
+     "sha256": "7eb08625a5e977649cd1ea10dc1963dd732600f7def803a42ada04695fac1c5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04935",
+   "short": "Lei 4935/2018",
+   "title": "Lei nº 4.935, de 27 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5753",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5753/5753_texto_integral.pdf",
+     "sha256": "0fd1f739c553ab3aeb2561eb15d0f28f3c216395bdebc3974fe1cd7595b50052"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04933",
+   "short": "Lei 4933/2018",
+   "title": "Lei nº 4.933, de 27 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5756",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5756/5756_texto_integral.pdf",
+     "sha256": "3e5f36cad711718f799674d76f5ec178b32eb302b2f79546ca7bc1ff3e8fa911"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04932",
+   "short": "Lei 4932/2018",
+   "title": "Lei nº 4.932, de 19 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5751",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5751/5751_texto_integral.pdf",
+     "sha256": "74d41092b31c091472f6d0a3dc604c44d737de8169dc0d2c0629ddba1567f7fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04931",
+   "short": "Lei 4931/2018",
+   "title": "Lei nº 4.931, de 19 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5750",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5750/5750_texto_integral.pdf",
+     "sha256": "14f20f18da3152f30a0eba6eedb7d34b92d04f824564d4e7471264af032de5ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04930",
+   "short": "Lei 4930/2018",
+   "title": "Lei nº 4.930, de 19 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5755",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5755/5755_texto_integral.pdf",
+     "sha256": "4328bfc34440951d9107fc40d5e564802cc0993f31074c406b7dbd2b246689f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04929",
+   "short": "Lei 4929/2018",
+   "title": "Lei nº 4.929, de 15 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5749",
+   "versions": [
+    {
+     "from": "2018-06-16",
+     "units": 5,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5749/5749_texto_integral.pdf",
+     "sha256": "ffa529d8110957d88f6c53f7ad43e436fd060859f9d461e6d662e4c02995a0b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04927",
+   "short": "Lei 4927/2018",
+   "title": "Lei nº 4.927, de 15 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5747",
+   "versions": [
+    {
+     "from": "2018-06-16",
+     "units": 3,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5747/5747_texto_integral.pdf",
+     "sha256": "499af07a4953f55b9787fc795b75596047b4d16193ee68982ce1dd1f1fcdcd04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04926",
+   "short": "Lei 4926/2018",
+   "title": "Lei nº 4.926, de 14 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5746",
+   "versions": [
+    {
+     "from": "2018-06-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5746/5746_texto_integral.pdf",
+     "sha256": "7c28a57ece18dfeec87796706b3f04f77dab4d406c05fd6a2f79aa01ed3dcd13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04925",
+   "short": "Lei 4925/2018",
+   "title": "Lei nº 4.925, de 14 de junho de 2018",
+   "url": "https://sapl.uruguaiana.rs.leg.br/norma/5745",
+   "versions": [
+    {
+     "from": "2018-06-15",
+     "units": 4,
+     "source_url": "https://sapl.uruguaiana.rs.leg.br/media/sapl/public/normajuridica/2018/5745/5745_texto_integral.pdf",
+     "sha256": "30db46865811dfa55798c7e2ce2d8fcb42bf94996546cf2ba51490ca23aaf226"
+    }
+   ]
   }
  ]
 }
